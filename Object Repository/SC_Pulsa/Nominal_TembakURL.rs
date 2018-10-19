@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nominal_TembakURL</name>
+   <tag></tag>
+   <elementGuidId>4f7ea0e7-05d1-448a-ba46-ed8857150035</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/section[2]/div/div[1]/div[2]/div[1]/form/div[3]/div[2]/div[1]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/section[2]/div/div[1]/div[2]/div[1]/form/div[3]/div[2]/div[1]/div/div</value>
+   </webElementProperties>
+</WebElementEntity>

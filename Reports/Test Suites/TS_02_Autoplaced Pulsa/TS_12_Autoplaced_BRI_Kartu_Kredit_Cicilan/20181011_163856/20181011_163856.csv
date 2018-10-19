@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_12_Autoplaced_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-11 16:47:10,2018-10-11 16:48:50,1m - 39.623s,PASSED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-11 16:47:11,2018-10-11 16:48:41,1m - 30.179s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-11 16:47:11,2018-10-11 16:48:11,59.890s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:11,2018-10-11 16:48:15,4.011s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:15,2018-10-11 16:48:15,0.126s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:15,2018-10-11 16:48:17,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:17,2018-10-11 16:48:17,0.151s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:17,2018-10-11 16:48:19,2.003s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-11 16:48:19,2018-10-11 16:48:21,1.494s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:21,2018-10-11 16:48:24,3.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:24,2018-10-11 16:48:24,0.136s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:24,2018-10-11 16:48:26,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:26,2018-10-11 16:48:26,0.207s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:26,2018-10-11 16:48:28,2.005s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:28,2018-10-11 16:48:39,10.744s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:48:39,2018-10-11 16:48:41,2.004s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_05_ChooseMethodPayment_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-11 16:48:41,2018-10-11 16:48:41,0.571s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:41,2018-10-11 16:48:41,0.322s,PASSED
+"Statement - paymentMethod = ""BRI "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_BRI Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-11 16:48:41,2018-10-11 16:48:41,0.058s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:48:41,2018-10-11 16:48:41,0.022s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-11 16:48:41,2018-10-11 16:48:49,7.664s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:48:42,2018-10-11 16:48:43,1.406s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 16:48:43,2018-10-11 16:48:49,5.979s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-11 16:48:49,2018-10-11 16:48:49,0.073s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:48:49,2018-10-11 16:48:49,0.007s,PASSED

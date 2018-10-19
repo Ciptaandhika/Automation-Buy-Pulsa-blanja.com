@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pulsa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>877b0f07-f015-46e5-8f17-5808a96ccb5b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.blanja.com/top-up/pulsa'</defaultValue>
+      <description></description>
+      <id>6dd81ece-075c-4e7b-a008-5ddf2ee423b9</id>
+      <masked>false</masked>
+      <name>urlpulsa</name>
+   </variable>
+   <variable>
+      <defaultValue>'081289138338'</defaultValue>
+      <description></description>
+      <id>58c870b7-2f85-40fe-ab91-ed72124bafe6</id>
+      <masked>false</masked>
+      <name>nmr_HP</name>
+   </variable>
+</TestCaseEntity>

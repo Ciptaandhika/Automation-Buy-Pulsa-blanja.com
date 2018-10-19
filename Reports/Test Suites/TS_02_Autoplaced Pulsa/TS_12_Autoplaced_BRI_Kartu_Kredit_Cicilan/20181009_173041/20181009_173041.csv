@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_12_Autoplaced_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-09 17:30:42,2018-10-09 17:31:55,1m - 13.012s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-09 17:30:43,2018-10-09 17:31:19,35.904s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-09 17:30:43,2018-10-09 17:30:58,14.888s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:30:58,2018-10-09 17:31:02,4.012s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:02,2018-10-09 17:31:02,0.142s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:02,2018-10-09 17:31:04,2.007s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:04,2018-10-09 17:31:05,0.173s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:05,2018-10-09 17:31:07,2.005s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-09 17:31:07,2018-10-09 17:31:07,0.696s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:07,2018-10-09 17:31:10,3.005s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:10,2018-10-09 17:31:10,0.146s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:10,2018-10-09 17:31:12,2.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:12,2018-10-09 17:31:13,0.203s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:13,2018-10-09 17:31:15,2.002s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:15,2018-10-09 17:31:17,2.146s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 17:31:17,2018-10-09 17:31:19,2.005s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_05_ChooseMethodPayment_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-09 17:31:19,2018-10-09 17:31:52,33.512s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:19,2018-10-09 17:31:19,0.332s,PASSED
+"Statement - paymentMethod = ""BRI "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_BRI Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-09 17:31:19,2018-10-09 17:31:52,32.876s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-09 17:31:52,2018-10-09 17:31:55,2.372s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 17:31:52,2018-10-09 17:31:53,0.300s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 17:31:53,2018-10-09 17:31:55,1.759s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-09 17:31:55,2018-10-09 17:31:55,0.089s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 17:31:55,2018-10-09 17:31:55,0.017s,PASSED

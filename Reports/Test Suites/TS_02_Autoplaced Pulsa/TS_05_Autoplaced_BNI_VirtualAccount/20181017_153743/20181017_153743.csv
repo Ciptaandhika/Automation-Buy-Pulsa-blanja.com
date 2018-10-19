@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_05_Autoplaced_BNI_VirtualAccount,Chrome 69.0.3497.100,,2018-10-17 15:45:56,2018-10-17 15:47:35,1m - 38.457s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:45:57,2018-10-17 15:46:13,16.536s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:45:57,2018-10-17 15:46:09,12.314s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 15:46:09,2018-10-17 15:46:11,2.012s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 15:46:11,2018-10-17 15:46:12,0.133s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 15:46:12,2018-10-17 15:46:13,1.005s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 15:46:13,2018-10-17 15:46:13,0.662s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_06_ChooseMethodPayment_BNI_Bank_Transfer_Virtual_Account,Chrome 69.0.3497.100,,2018-10-17 15:46:13,2018-10-17 15:46:46,33.205s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:46:13,2018-10-17 15:46:46,33.055s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:46:47,2018-10-17 15:47:34,47.730s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:46:47,2018-10-17 15:47:34,47.581s,FAILED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_22_Autoplaced_Bank_Transfer,Chrome 69.0.3497.100,,2018-10-17 15:17:10,2018-10-17 15:18:22,1m - 12.041s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:17:10,2018-10-17 15:17:16,5.925s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:17:11,2018-10-17 15:17:16,5.285s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_21_ChooseMethodPayment_Bank_Transfer,Chrome 69.0.3497.100,,2018-10-17 15:17:16,2018-10-17 15:17:48,32.400s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:17:16,2018-10-17 15:17:48,32.229s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:17:48,2018-10-17 15:18:21,32.674s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:17:49,2018-10-17 15:18:21,32.474s,FAILED

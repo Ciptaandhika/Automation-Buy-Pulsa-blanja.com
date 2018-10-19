@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_06_Autoplaced_BNI_BankTransferVirtualAccount,Chrome 69.0.3497.100,,2018-10-08 17:07:20,2018-10-08 17:10:13,2m - 52.133s,FAILED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-08 17:07:21,2018-10-08 17:07:50,29.174s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-08 17:07:21,2018-10-08 17:07:25,3.260s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-08 17:07:25,2018-10-08 17:07:26,1.159s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-08 17:07:26,2018-10-08 17:07:44,18.400s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-08 17:07:44,2018-10-08 17:07:44,0.297s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-08 17:07:44,2018-10-08 17:07:45,0.154s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-08 17:07:45,2018-10-08 17:07:50,5.427s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-08 17:07:50,2018-10-08 17:08:30,40.021s,FAILED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-08 17:07:50,2018-10-08 17:07:55,4.400s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-08 17:07:55,2018-10-08 17:08:30,35.318s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-08 17:08:30,2018-10-08 17:09:04,33.677s,FAILED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-08 17:08:30,2018-10-08 17:09:04,33.511s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_06_ChooseMethodPayment_BNI_Bank_Transfer_Virtual_Account,Chrome 69.0.3497.100,,2018-10-08 17:09:04,2018-10-08 17:09:37,33.704s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-08 17:09:04,2018-10-08 17:09:37,33.523s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-08 17:09:37,2018-10-08 17:10:12,34.352s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-08 17:09:38,2018-10-08 17:10:12,34.059s,FAILED

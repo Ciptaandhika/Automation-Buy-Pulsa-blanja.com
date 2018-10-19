@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_01_Autoplaced_Mandiri_Debit Online" time="34" tests="3" failures="0" errors="0">
+   <testsuite name="TS_01_Autoplaced_Mandiri_Debit Online" tests="3" failures="0" errors="0" time="34" timestamp="2018-10-17 14:39:22" hostname="CIPTA-E460$ - CIPTA-E460.ad.metraplasa.co.id" id="Test Suites/Test Suites/TS_02_Autoplaced Pulsa/TS_01_Autoplaced_Mandiri_Debit Online">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\cipta.andhika\\Katalon Studio\\blanja.test\\blanja.test\\Reports\\Test Suites\\TS_02_Autoplaced Pulsa\\TS_01_Autoplaced_Mandiri_Debit Online\\20181017_143919"/>
+         <property name="logFiles" value="C:\\Users\\cipta.andhika\\Katalon Studio\\blanja.test\\blanja.test\\Reports\\Test Suites\\TS_02_Autoplaced Pulsa\\TS_01_Autoplaced_Mandiri_Debit Online\\20181017_143919\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="CIPTA-E460$ - CIPTA-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="10.10.99.0"/>
+         <property name="sessionId" value="721652407e7d42336775650041addfdc"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/10_Test Case Besar Pulsa/Pulsa_1" classname="Test Cases/10_Test Case Besar Pulsa/Pulsa_1" status="PASSED">
+         <system-out><![CDATA[2018-10-17 14:39:22 - [TEST_CASE][PASSED] - Test Cases/10_Test Case Besar Pulsa/Pulsa_1: Test Cases/10_Test Case Besar Pulsa/Pulsa_1
+
+2018-10-17 14:39:22 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/02_Member/TC_02010001_Member_Login' successfully
+
+2018-10-17 14:39:23 - [TEST_CASE][PASSED] - Test Cases/02_Member/TC_02010001_Member_Login: Test Cases/02_Member/TC_02010001_Member_Login
+
+2018-10-17 14:39:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-17 14:39:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-17 14:39:26 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-10-17 14:39:27 - [MESSAGE][PASSED] - Current window maximized
+
+2018-10-17 14:39:27 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://member.blanja.com/member/login' successfully
+
+2018-10-17 14:39:29 - [MESSAGE][PASSED] - Navigate to 'https://member.blanja.com/member/login' successfully
+
+2018-10-17 14:39:29 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_nick'
+
+2018-10-17 14:39:30 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_nick'
+
+2018-10-17 14:39:30 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_password'
+
+2018-10-17 14:39:30 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_password'
+
+2018-10-17 14:39:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/a_Masuk' is clicked on
+
+2018-10-17 14:39:37 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/a_Masuk' is clicked on
+
+2018-10-17 14:39:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/02_Member/TC_02010001_Member_Login' successfully
+
+2018-10-17 14:39:37 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-17 14:39:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-17 14:39:39 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.blanja.com/top-up/pulsa' successfully
+
+2018-10-17 14:39:40 - [MESSAGE][PASSED] - Navigate to 'https://www.blanja.com/top-up/pulsa' successfully
+
+2018-10-17 14:39:40 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-17 14:39:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-17 14:39:43 - [TEST_STEP][PASSED] - setText: Text '081289138338' is set on object 'Object Repository/SC_Pulsa/NomorHandphone_TembakURL'
+
+2018-10-17 14:39:43 - [MESSAGE][PASSED] - Text '081289138338' is set on object 'Object Repository/SC_Pulsa/NomorHandphone_TembakURL'
+
+2018-10-17 14:39:43 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-17 14:39:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-17 14:39:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_Pulsa/Nominal_TembakURL' is clicked on
+
+2018-10-17 14:39:46 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_Pulsa/Nominal_TembakURL' is clicked on
+
+2018-10-17 14:39:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-17 14:39:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-17 14:39:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_Pulsa/ButtonBlanja_TembakURL' is clicked on
+
+2018-10-17 14:39:48 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_Pulsa/ButtonBlanja_TembakURL' is clicked on
+
+2018-10-17 14:39:48 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-17 14:39:50 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline" classname="Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline" status="PASSED">
+         <system-out><![CDATA[2018-10-17 14:39:50 - [TEST_CASE][PASSED] - Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline: Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline
+
+2018-10-17 14:39:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/RadioButtonPaymentMethod/rb_02_mandiri_debit_online' is clicked on
+
+2018-10-17 14:39:51 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/RadioButtonPaymentMethod/rb_02_mandiri_debit_online' is clicked on
+
+2018-10-17 14:39:51 - [TEST_STEP][PASSED] - Statement - paymentMethod = "Mandiri " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Mandiri Debit Online)): Text of object 'Object Repository/SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Mandiri Debit Online' is: 'Mandiri Debit Online'
+
+2018-10-17 14:39:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Mandiri Debit Online' is: 'Mandiri Debit Online'
+
+2018-10-17 14:39:51 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-17 14:39:51 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" classname="Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" status="PASSED">
+         <system-out><![CDATA[2018-10-17 14:39:51 - [TEST_CASE][PASSED] - Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced: Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced
+
+2018-10-17 14:39:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/input_checkOut' is clicked on
+
+2018-10-17 14:39:52 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/input_checkOut' is clicked on
+
+2018-10-17 14:39:52 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://member.blanja.com/trades/orderList.html' successfully
+
+2018-10-17 14:39:55 - [MESSAGE][PASSED] - Navigate to 'https://member.blanja.com/trades/orderList.html' successfully
+
+2018-10-17 14:39:55 - [TEST_STEP][PASSED] - Statement - orderNumber = " - " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber)): Text of object 'Object Repository/SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'Nomor Pemesanan :418695039499423019'
+
+2018-10-17 14:39:55 - [MESSAGE][PASSED] - Text of object 'Object Repository/SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'Nomor Pemesanan :418695039499423019'
+
+2018-10-17 14:39:55 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-17 14:39:55 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-17 14:39:22 - [TEST_SUITE][PASSED] - TS_01_Autoplaced_Mandiri_Debit Online: Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_20_ChooseMethodPayment_Finpay_TMoney</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24e8d0e2-f449-4cbc-846b-4968d95b9721</testCaseGuid>
+</TestCaseEntity>

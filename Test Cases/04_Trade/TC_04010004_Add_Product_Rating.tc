@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010004_Add_Product_Rating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccee10e5-08ca-4550-9187-20dbc4d2ce5b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://trade.blanjadev.com/feedback/toCommentOrder?orderId=3762430&amp;shopId=100810'</defaultValue>
+      <description></description>
+      <id>ddf9d056-a234-4d08-9062-4136a5140c29</id>
+      <masked>false</masked>
+      <name>addProductLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing tanggapan QA mohon untuk tidak di approve, have a nice day.'</defaultValue>
+      <description></description>
+      <id>b285cd3b-cfd3-406b-91cd-dd73f535b9b6</id>
+      <masked>false</masked>
+      <name>feedback</name>
+   </variable>
+</TestCaseEntity>

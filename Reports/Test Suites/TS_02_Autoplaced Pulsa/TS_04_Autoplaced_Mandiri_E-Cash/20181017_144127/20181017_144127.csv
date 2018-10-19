@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_04_Autoplaced_Mandiri_E-Cash,Chrome 69.0.3497.100,,2018-10-17 14:45:12,2018-10-17 14:46:23,1m - 11.548s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 14:45:12,2018-10-17 14:45:17,5.224s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:45:13,2018-10-17 14:45:17,4.847s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_05_ChooseMethodPayment_Mandiri_E_Cash,Chrome 69.0.3497.100,,2018-10-17 14:45:17,2018-10-17 14:45:50,32.541s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:45:18,2018-10-17 14:45:50,32.399s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:45:50,2018-10-17 14:46:23,32.762s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:45:50,2018-10-17 14:46:23,32.595s,FAILED

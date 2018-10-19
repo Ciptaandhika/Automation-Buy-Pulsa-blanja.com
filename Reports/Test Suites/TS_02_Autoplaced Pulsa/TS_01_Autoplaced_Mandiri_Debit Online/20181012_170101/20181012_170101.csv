@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_Debit Online,,,2018-10-12 17:01:03,2018-10-12 17:01:03,0.397s,INCOMPLETE
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa_1,,,2018-10-12 17:01:03,2018-10-12 17:01:03,0.021s,PASSED

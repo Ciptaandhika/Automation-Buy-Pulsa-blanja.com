@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_selected_Product_5Stars</name>
+   <tag></tag>
+   <elementGuidId>90586fe5-c003-4580-adaa-985e698950e4</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cur</name>
+      <type>Main</type>
+      <value>pro</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scoreForm&quot;)/div[@class=&quot;feedback-content clear&quot;]/ul[@class=&quot;detail&quot;]/li[@class=&quot;discr&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;rating&quot;]/ul[1]/li[@class=&quot;selected&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

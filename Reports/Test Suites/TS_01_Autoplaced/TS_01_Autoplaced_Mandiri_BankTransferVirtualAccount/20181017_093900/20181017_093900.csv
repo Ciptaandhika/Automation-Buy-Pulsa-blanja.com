@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_BankTransferVirtualAccount,Chrome 69.0.3497.100,,2018-10-17 09:39:03,2018-10-17 09:39:43,39.752s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-17 09:39:03,2018-10-17 09:39:24,20.787s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-17 09:39:04,2018-10-17 09:39:08,4.459s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-17 09:39:08,2018-10-17 09:39:10,1.200s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 09:39:10,2018-10-17 09:39:13,3.770s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 09:39:13,2018-10-17 09:39:14,0.361s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 09:39:14,2018-10-17 09:39:14,0.257s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:14,2018-10-17 09:39:24,10.242s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-17 09:39:24,2018-10-17 09:39:27,2.888s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 09:39:24,2018-10-17 09:39:27,2.329s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:27,2018-10-17 09:39:27,0.157s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:27,2018-10-17 09:39:27,0.146s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-17 09:39:27,2018-10-17 09:39:32,5.129s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-17 09:39:27,2018-10-17 09:39:30,2.604s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 09:39:30,2018-10-17 09:39:32,2.045s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:32,2018-10-17 09:39:32,0.188s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_01_ChooseMethodPayment_Mandiri_TransferBank,Chrome 69.0.3497.100,,2018-10-17 09:39:32,2018-10-17 09:39:35,3.032s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:33,2018-10-17 09:39:35,2.627s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Transfer Bank_Mandiri))",Chrome 69.0.3497.100,,2018-10-17 09:39:35,2018-10-17 09:39:35,0.079s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 09:39:35,2018-10-17 09:39:35,0.043s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 09:39:35,2018-10-17 09:39:42,6.537s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 09:39:36,2018-10-17 09:39:39,3.743s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 09:39:39,2018-10-17 09:39:42,2.274s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-17 09:39:42,2018-10-17 09:39:42,0.189s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 09:39:42,2018-10-17 09:39:42,0.011s,PASSED

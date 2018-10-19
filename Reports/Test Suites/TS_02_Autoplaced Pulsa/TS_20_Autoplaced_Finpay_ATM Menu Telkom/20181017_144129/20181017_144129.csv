@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_20_Autoplaced_Finpay_ATM Menu Telkom,Chrome 69.0.3497.100,,2018-10-17 15:13:25,2018-10-17 15:14:36,1m - 11.345s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:13:25,2018-10-17 15:13:30,5.203s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:13:26,2018-10-17 15:13:30,4.796s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_19_ChooseMethodPayment_Finpay_ATM,Chrome 69.0.3497.100,,2018-10-17 15:13:30,2018-10-17 15:14:03,32.485s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:13:31,2018-10-17 15:14:03,32.325s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:14:03,2018-10-17 15:14:36,32.643s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:14:03,2018-10-17 15:14:36,32.470s,FAILED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_17_Autoplaced_BCA_KlikPay,Chrome 69.0.3497.100,,2018-10-17 15:07:49,2018-10-17 15:09:00,1m - 11.440s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:07:49,2018-10-17 15:07:55,5.258s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:07:50,2018-10-17 15:07:55,4.785s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_17_ChooseMethodPayment_BCA_KlikPay,Chrome 69.0.3497.100,,2018-10-17 15:07:55,2018-10-17 15:08:27,32.491s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:07:55,2018-10-17 15:08:27,32.320s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:08:27,2018-10-17 15:09:00,32.713s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:08:27,2018-10-17 15:09:00,32.502s,FAILED

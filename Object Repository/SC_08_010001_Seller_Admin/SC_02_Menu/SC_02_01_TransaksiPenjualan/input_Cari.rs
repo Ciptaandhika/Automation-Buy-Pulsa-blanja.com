@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Cari</name>
+   <tag></tag>
+   <elementGuidId>f9acc381-60fd-4a9f-bcfe-a2b9caedc2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;queryForm&quot;)/div[@class=&quot;clear&quot;]/div[@class=&quot;input-line&quot;]/div[@class=&quot;conditional-search-btn&quot;]/input[@class=&quot;g-orange-button w90 seller-btn search-btn fLeft&quot;][count(. | //input[@type = 'button' and @value = 'Cari' and @class = 'g-orange-button w90 seller-btn search-btn fLeft']) = count(//input[@type = 'button' and @value = 'Cari' and @class = 'g-orange-button w90 seller-btn search-btn fLeft'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Cari</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>g-orange-button w90 seller-btn search-btn fLeft</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;queryForm&quot;)/div[@class=&quot;clear&quot;]/div[@class=&quot;input-line&quot;]/div[@class=&quot;conditional-search-btn&quot;]/input[@class=&quot;g-orange-button w90 seller-btn search-btn fLeft&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

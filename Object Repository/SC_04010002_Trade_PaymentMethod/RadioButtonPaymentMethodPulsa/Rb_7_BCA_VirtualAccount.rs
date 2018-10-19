@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rb_7_BCA_VirtualAccount</name>
+   <tag></tag>
+   <elementGuidId>7dc465d2-75e6-4312-9b70-0ba9d75940a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/div[1]/div[2]/div[1]/div[2]/ul/li[1]/ul/li[3]/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/div[1]/div[2]/div[1]/div[2]/ul/li[1]/ul/li[3]/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_18_Autoplaced_BCA_VirtualAccount,Chrome 69.0.3497.100,,2018-10-10 09:43:50,2018-10-10 09:45:44,1m - 53.760s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-10 09:43:51,2018-10-10 09:44:37,46.452s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-10 09:43:51,2018-10-10 09:44:01,9.315s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:44:01,2018-10-10 09:44:05,4.014s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:44:05,2018-10-10 09:44:37,32.661s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_07_ChooseMethodPayment_BCA_VirtualAccount,Chrome 69.0.3497.100,,2018-10-10 09:44:37,2018-10-10 09:45:11,33.278s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-10 09:44:38,2018-10-10 09:45:11,32.916s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-10 09:45:11,2018-10-10 09:45:43,32.788s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-10 09:45:11,2018-10-10 09:45:43,32.454s,FAILED

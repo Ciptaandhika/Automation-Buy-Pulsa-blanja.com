@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_19_Autoplaced_Finpay_ATM,Chrome 69.0.3497.100,,2018-10-09 11:03:39,2018-10-09 11:04:40,1m - 1.582s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-09 11:03:39,2018-10-09 11:04:06,27.050s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-09 11:03:40,2018-10-09 11:03:43,3.378s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-09 11:03:43,2018-10-09 11:03:44,1.155s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 11:03:44,2018-10-09 11:04:00,15.964s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-09 11:04:00,2018-10-09 11:04:00,0.243s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-09 11:04:00,2018-10-09 11:04:00,0.145s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:00,2018-10-09 11:04:06,5.750s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-09 11:04:06,2018-10-09 11:04:25,19.181s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 11:04:06,2018-10-09 11:04:25,18.732s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:25,2018-10-09 11:04:25,0.113s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:25,2018-10-09 11:04:25,0.144s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-09 11:04:25,2018-10-09 11:04:28,2.306s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-09 11:04:26,2018-10-09 11:04:28,1.911s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:28,2018-10-09 11:04:28,0.117s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_19_ChooseMethodPayment_Finpay_ATM,Chrome 69.0.3497.100,,2018-10-09 11:04:28,2018-10-09 11:04:32,4.246s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:28,2018-10-09 11:04:32,3.939s,PASSED
+"Statement - paymentMethod = ""Finpay "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bayar di ATM Menu Telkom))",Chrome 69.0.3497.100,,2018-10-09 11:04:32,2018-10-09 11:04:32,0.092s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 11:04:32,2018-10-09 11:04:32,0.037s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-09 11:04:32,2018-10-09 11:04:40,7.563s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 11:04:32,2018-10-09 11:04:37,4.438s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 11:04:37,2018-10-09 11:04:39,2.784s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-09 11:04:39,2018-10-09 11:04:40,0.076s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 11:04:40,2018-10-09 11:04:40,0.003s,PASSED

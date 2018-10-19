@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_26_Autoplaced_Alfamart_Finpay,Chrome 69.0.3497.100,,2018-10-17 16:39:32,2018-10-17 16:39:58,26.511s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-17 16:39:32,2018-10-17 16:39:44,11.473s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-17 16:39:33,2018-10-17 16:39:36,3.297s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-17 16:39:36,2018-10-17 16:39:37,1.147s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:39:37,2018-10-17 16:39:39,1.604s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:39:39,2018-10-17 16:39:39,0.224s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:39:39,2018-10-17 16:39:39,0.155s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:39,2018-10-17 16:39:44,4.631s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-17 16:39:44,2018-10-17 16:39:46,2.436s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:39:44,2018-10-17 16:39:46,2.077s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:46,2018-10-17 16:39:46,0.108s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:46,2018-10-17 16:39:46,0.107s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-17 16:39:46,2018-10-17 16:39:50,3.577s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-17 16:39:46,2018-10-17 16:39:48,1.326s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:39:48,2018-10-17 16:39:50,2.016s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:50,2018-10-17 16:39:50,0.109s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_27_ChooseMethodPayment_Alfamart_Finpay,Chrome 69.0.3497.100,,2018-10-17 16:39:50,2018-10-17 16:39:52,2.335s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:50,2018-10-17 16:39:52,1.989s,PASSED
+Statement - paymentMethod = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Alfamart via Finpay)),Chrome 69.0.3497.100,,2018-10-17 16:39:52,2018-10-17 16:39:52,0.120s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:39:52,2018-10-17 16:39:52,0.041s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:39:52,2018-10-17 16:39:58,5.487s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:39:52,2018-10-17 16:39:55,3.136s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:39:55,2018-10-17 16:39:57,1.845s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-17 16:39:57,2018-10-17 16:39:58,0.230s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:39:58,2018-10-17 16:39:58,0.009s,PASSED

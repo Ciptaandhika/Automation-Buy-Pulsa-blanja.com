@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_30_Autoplaced_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-17 16:45:58,2018-10-17 16:46:27,29.143s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-17 16:45:58,2018-10-17 16:46:12,13.950s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-17 16:45:58,2018-10-17 16:46:02,3.316s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-17 16:46:02,2018-10-17 16:46:03,1.145s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:46:03,2018-10-17 16:46:05,1.975s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:46:05,2018-10-17 16:46:05,0.195s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:46:05,2018-10-17 16:46:05,0.183s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:05,2018-10-17 16:46:12,6.764s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-17 16:46:12,2018-10-17 16:46:15,3.002s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:46:12,2018-10-17 16:46:15,2.424s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:15,2018-10-17 16:46:15,0.189s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:15,2018-10-17 16:46:15,0.153s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-17 16:46:15,2018-10-17 16:46:19,4.196s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-17 16:46:15,2018-10-17 16:46:17,1.843s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:46:17,2018-10-17 16:46:19,2.019s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:19,2018-10-17 16:46:19,0.151s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_12_ChooseMethodPayment_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-17 16:46:19,2018-10-17 16:46:23,4.217s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:20,2018-10-17 16:46:23,3.770s,PASSED
+"Statement - paymentMethod = ""BRI "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Mandiri Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-17 16:46:23,2018-10-17 16:46:23,0.089s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:46:23,2018-10-17 16:46:23,0.032s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:46:23,2018-10-17 16:46:26,2.666s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:46:24,2018-10-17 16:46:24,0.420s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:46:24,2018-10-17 16:46:26,1.919s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-17 16:46:26,2018-10-17 16:46:26,0.073s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:46:26,2018-10-17 16:46:26,0.009s,PASSED

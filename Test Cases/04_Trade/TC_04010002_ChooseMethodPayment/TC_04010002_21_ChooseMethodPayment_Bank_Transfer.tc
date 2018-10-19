@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_21_ChooseMethodPayment_Bank_Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0ddc1a-298f-474b-a97c-763247faf828</testCaseGuid>
+</TestCaseEntity>

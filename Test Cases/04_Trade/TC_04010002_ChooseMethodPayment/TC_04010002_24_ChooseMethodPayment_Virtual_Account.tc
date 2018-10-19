@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_24_ChooseMethodPayment_Virtual_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76315e32-1b34-41dd-86af-debcd8e8ae19</testCaseGuid>
+   <variable>
+      <defaultValue>'9000000'</defaultValue>
+      <description></description>
+      <id>1e8c5326-a5c3-42d6-b322-4f7a8240e66f</id>
+      <masked>false</masked>
+      <name>VA_Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'123qwe'</defaultValue>
+      <description></description>
+      <id>ead7f398-3654-44a0-ab37-b17f34d883c3</id>
+      <masked>false</masked>
+      <name>VA_Password</name>
+   </variable>
+</TestCaseEntity>

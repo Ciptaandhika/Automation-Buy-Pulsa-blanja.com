@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_06_Autoplaced_BNI_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 14:47:37,2018-10-17 14:48:48,1m - 10.821s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 14:47:37,2018-10-17 14:47:43,5.269s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:47:38,2018-10-17 14:47:43,4.844s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_07_ChooseMethodPayment_BNI_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 14:47:43,2018-10-17 14:48:15,32.247s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:47:43,2018-10-17 14:48:15,32.033s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:48:15,2018-10-17 14:48:47,32.323s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:48:15,2018-10-17 14:48:47,32.129s,FAILED

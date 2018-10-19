@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010004_ClickCheckout_getUniqueAmount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef1e651f-bceb-4e7b-8efc-b2828b968800</testCaseGuid>
+</TestCaseEntity>

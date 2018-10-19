@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_25_Autoplaced_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 15:22:48,2018-10-17 15:23:58,1m - 10.510s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:22:48,2018-10-17 15:22:53,5.301s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:22:48,2018-10-17 15:22:53,4.885s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_23_ChooseMethodPayment_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 15:22:53,2018-10-17 15:23:25,32.157s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:22:53,2018-10-17 15:23:25,32.027s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:23:25,2018-10-17 15:23:58,32.075s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:23:26,2018-10-17 15:23:58,31.895s,FAILED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_14_ChooseMethodPayment_BTN_Debit_Online</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bff180e5-8f15-4bbf-ad00-89a8ab04b503</testCaseGuid>
+</TestCaseEntity>

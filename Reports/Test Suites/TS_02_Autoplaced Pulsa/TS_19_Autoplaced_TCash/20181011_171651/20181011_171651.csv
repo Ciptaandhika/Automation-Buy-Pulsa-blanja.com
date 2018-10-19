@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_19_Autoplaced_TCash,Chrome 69.0.3497.100,,2018-10-11 17:27:48,2018-10-11 17:28:54,1m - 6.363s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-11 17:27:48,2018-10-11 17:28:18,29.880s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-11 17:27:49,2018-10-11 17:28:02,13.056s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:02,2018-10-11 17:28:04,2.011s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:04,2018-10-11 17:28:04,0.143s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:04,2018-10-11 17:28:06,2.002s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-11 17:28:06,2018-10-11 17:28:07,0.634s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:07,2018-10-11 17:28:10,3.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:10,2018-10-11 17:28:10,0.121s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:10,2018-10-11 17:28:12,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:12,2018-10-11 17:28:12,0.208s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:12,2018-10-11 17:28:14,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:14,2018-10-11 17:28:16,2.264s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:28:16,2018-10-11 17:28:18,2.003s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_18_ChooseMethodPayment_TCash,Chrome 69.0.3497.100,,2018-10-11 17:28:18,2018-10-11 17:28:52,33.296s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:19,2018-10-11 17:28:52,33.115s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-11 17:28:52,2018-10-11 17:28:54,2.067s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:28:52,2018-10-11 17:28:52,0.111s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 17:28:52,2018-10-11 17:28:54,1.696s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-11 17:28:54,2018-10-11 17:28:54,0.066s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 17:28:54,2018-10-11 17:28:54,0.012s,PASSED

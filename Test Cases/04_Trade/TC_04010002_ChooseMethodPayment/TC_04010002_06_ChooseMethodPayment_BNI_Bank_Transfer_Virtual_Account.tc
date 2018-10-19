@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_06_ChooseMethodPayment_BNI_Bank_Transfer_Virtual_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47b5e4b5-2a82-439f-b218-bb5c88a79849</testCaseGuid>
+</TestCaseEntity>

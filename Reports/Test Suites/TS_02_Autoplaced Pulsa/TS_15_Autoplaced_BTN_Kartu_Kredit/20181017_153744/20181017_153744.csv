@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_15_Autoplaced_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 16:09:22,2018-10-17 16:11:03,1m - 41.037s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 16:09:23,2018-10-17 16:09:42,19.415s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 16:09:23,2018-10-17 16:09:38,15.242s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:09:38,2018-10-17 16:09:40,2.012s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:09:40,2018-10-17 16:09:40,0.132s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:09:40,2018-10-17 16:09:41,1.004s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:09:41,2018-10-17 16:09:42,0.573s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_06_ChooseMethodPayment_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 16:09:42,2018-10-17 16:10:15,32.657s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 16:09:42,2018-10-17 16:10:15,32.502s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:10:15,2018-10-17 16:11:02,47.778s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 16:10:15,2018-10-17 16:11:02,47.499s,FAILED

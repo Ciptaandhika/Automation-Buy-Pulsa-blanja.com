@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02010003_Member_GoToBlanjaanSaya_ConfirmShippedOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e956b74-3a0d-4a26-b4ce-6a48fe1269a7</testCaseGuid>
+   <variable>
+      <defaultValue>'https://member.blanjadev.com/trades/orderList.html'</defaultValue>
+      <description></description>
+      <id>e6861f72-5a39-4e27-9f8d-23fb44b4542c</id>
+      <masked>false</masked>
+      <name>BlanjaanSayaUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'418219922158023209'</defaultValue>
+      <description></description>
+      <id>debe6c2f-2975-42f4-8f01-3490946b331c</id>
+      <masked>false</masked>
+      <name>OrderNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://member.blanjadev.com/trade/confirm_received?orderId=3762434'</defaultValue>
+      <description></description>
+      <id>0f0aa15c-c102-4c67-a757-23450b1ba3db</id>
+      <masked>false</masked>
+      <name>OrderDetailUrl</name>
+   </variable>
+</TestCaseEntity>

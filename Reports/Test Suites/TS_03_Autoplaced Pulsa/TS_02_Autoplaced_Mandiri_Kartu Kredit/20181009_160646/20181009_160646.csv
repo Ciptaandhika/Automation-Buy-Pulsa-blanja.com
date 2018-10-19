@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_02_Autoplaced_Mandiri_Kartu Kredit,Chrome 69.0.3497.100,,2018-10-09 16:06:48,2018-10-09 16:08:19,1m - 30.680s,PASSED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-09 16:06:48,2018-10-09 16:08:12,1m - 23.874s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-09 16:06:49,2018-10-09 16:07:21,32.686s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:21,2018-10-09 16:07:26,4.016s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:07:26,2018-10-09 16:07:26,0.192s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:26,2018-10-09 16:07:28,2.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:07:28,2018-10-09 16:07:28,0.158s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:28,2018-10-09 16:07:30,2.003s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-09 16:07:30,2018-10-09 16:07:31,0.714s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:31,2018-10-09 16:07:34,3.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:07:34,2018-10-09 16:07:34,0.136s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:34,2018-10-09 16:07:36,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:07:36,2018-10-09 16:07:36,0.222s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:07:36,2018-10-09 16:07:38,2.005s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:07:38,2018-10-09 16:08:10,32.168s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:08:10,2018-10-09 16:08:12,2.005s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_01_ChooseMethodPayment_Mandiri_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-09 16:08:12,2018-10-09 16:08:13,0.638s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:08:12,2018-10-09 16:08:13,0.289s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_Mandiri Kartu Kredit))",Chrome 69.0.3497.100,,2018-10-09 16:08:13,2018-10-09 16:08:13,0.080s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 16:08:13,2018-10-09 16:08:13,0.033s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-09 16:08:13,2018-10-09 16:08:18,4.985s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:08:13,2018-10-09 16:08:16,2.629s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 16:08:16,2018-10-09 16:08:18,1.941s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-09 16:08:18,2018-10-09 16:08:18,0.065s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 16:08:18,2018-10-09 16:08:18,0.006s,PASSED

@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_BankTransferVirtualAccount,Firefox 60.0,,2018-10-07 09:14:28,2018-10-07 09:15:47,1m - 18.632s,INCOMPLETE
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Firefox 60.0,,2018-10-07 09:14:29,2018-10-07 09:15:04,35.684s,PASSED
+openBrowser,Firefox 60.0,,2018-10-07 09:14:29,2018-10-07 09:14:39,10.125s,PASSED
+maximizeWindow,Firefox 60.0,,2018-10-07 09:14:39,2018-10-07 09:14:40,0.147s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:14:40,2018-10-07 09:14:46,6.892s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:14:46,2018-10-07 09:14:47,0.254s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:14:47,2018-10-07 09:14:47,0.091s,PASSED
+click,Firefox 60.0,,2018-10-07 09:14:47,2018-10-07 09:15:04,17.635s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_ClickBlanjaSekarang,Firefox 60.0,,2018-10-07 09:15:04,2018-10-07 09:15:46,41.261s,FAILED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:15:05,2018-10-07 09:15:09,4.414s,PASSED
+click,Firefox 60.0,,2018-10-07 09:15:09,2018-10-07 09:15:46,36.503s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Firefox 60.0,,2018-10-07 09:15:46,2018-10-07 09:15:46,0.351s,FAILED
+selectOptionByValue,Firefox 60.0,,2018-10-07 09:15:46,2018-10-07 09:15:46,0.138s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_01_ChooseMethodPayment_Mandiri_BankTransferVirtualAccount,Firefox 60.0,,2018-10-07 09:15:46,2018-10-07 09:15:47,0.415s,FAILED
+click,Firefox 60.0,,2018-10-07 09:15:46,2018-10-07 09:15:46,0.024s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Firefox 60.0,,2018-10-07 09:15:47,2018-10-07 09:15:47,0.430s,FAILED
+click,Firefox 60.0,,2018-10-07 09:15:47,2018-10-07 09:15:47,0.029s,FAILED

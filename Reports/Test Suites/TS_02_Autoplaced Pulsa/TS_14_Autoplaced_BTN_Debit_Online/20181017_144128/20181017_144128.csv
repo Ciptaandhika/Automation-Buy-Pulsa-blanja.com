@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_14_Autoplaced_BTN_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 15:01:53,2018-10-17 15:03:05,1m - 11.655s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:01:54,2018-10-17 15:01:59,5.310s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:01:54,2018-10-17 15:01:59,4.886s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_14_ChooseMethodPayment_BTN_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 15:01:59,2018-10-17 15:02:32,32.526s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:01:59,2018-10-17 15:02:32,32.367s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:02:32,2018-10-17 15:03:04,32.854s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:02:32,2018-10-17 15:03:04,32.641s,FAILED

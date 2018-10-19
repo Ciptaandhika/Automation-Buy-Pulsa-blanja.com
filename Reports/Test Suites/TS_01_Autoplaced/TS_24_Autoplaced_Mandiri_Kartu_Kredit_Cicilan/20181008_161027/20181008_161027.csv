@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_24_Autoplaced_Mandiri_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-08 16:10:29,2018-10-08 16:12:33,2m - 3.937s,FAILED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-08 16:10:29,2018-10-08 16:11:24,54.658s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-08 16:10:30,2018-10-08 16:10:33,3.276s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-08 16:10:33,2018-10-08 16:10:34,1.227s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-08 16:10:34,2018-10-08 16:11:06,31.484s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-08 16:11:06,2018-10-08 16:11:06,0.555s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-08 16:11:06,2018-10-08 16:11:07,0.265s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-08 16:11:07,2018-10-08 16:11:24,17.306s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-08 16:11:24,2018-10-08 16:12:01,37.418s,FAILED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-08 16:11:24,2018-10-08 16:11:27,2.457s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-08 16:11:27,2018-10-08 16:12:01,34.651s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-08 16:12:01,2018-10-08 16:12:15,13.865s,FAILED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-08 16:12:02,2018-10-08 16:12:15,13.565s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_25_ChooseMethodPayment_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-08 16:12:15,2018-10-08 16:12:24,8.329s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-08 16:12:16,2018-10-08 16:12:24,8.076s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-08 16:12:24,2018-10-08 16:12:32,8.433s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-08 16:12:24,2018-10-08 16:12:32,8.069s,FAILED

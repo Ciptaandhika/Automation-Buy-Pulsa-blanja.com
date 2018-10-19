@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_07_ChooseMethodPayment_BNI_Debit_Online</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0ae1a2c-5c87-4208-b74e-7b4a4a332fbe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_15_Autoplaced_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 15:03:50,2018-10-17 15:05:01,1m - 11.165s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:03:50,2018-10-17 15:03:55,5.388s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:03:51,2018-10-17 15:03:55,4.905s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_06_ChooseMethodPayment_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 15:03:55,2018-10-17 15:04:28,32.145s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:03:56,2018-10-17 15:04:28,32.008s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:04:28,2018-10-17 15:05:00,32.667s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:04:28,2018-10-17 15:05:00,32.498s,FAILED

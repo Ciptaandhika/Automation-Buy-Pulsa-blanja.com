@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_Debit Online,Chrome 69.0.3497.100,,2018-10-12 16:53:19,2018-10-12 16:53:53,33.615s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa_1,Chrome 69.0.3497.100,,2018-10-12 16:53:20,2018-10-12 16:53:52,32.435s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-12 16:53:20,2018-10-12 16:53:46,25.528s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-12 16:53:46,2018-10-12 16:53:48,2.017s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-12 16:53:48,2018-10-12 16:53:49,0.944s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-12 16:53:49,2018-10-12 16:53:52,3.004s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-12 16:53:52,2018-10-12 16:53:52,0.419s,FAILED

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07010002_Send_Product_For_Paid_Order_With_Kurir_Pribadi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec248fba-d9d1-4cfa-8f19-c0b7adb39fd9</testCaseGuid>
+   <variable>
+      <defaultValue>'418221914021223209'</defaultValue>
+      <description></description>
+      <id>d9701962-0178-4ff3-ac05-ab6c25029d6d</id>
+      <masked>false</masked>
+      <name>orderNumber</name>
+   </variable>
+</TestCaseEntity>

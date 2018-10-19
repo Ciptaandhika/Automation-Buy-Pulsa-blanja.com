@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_15_Autoplaced_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-09 10:47:13,2018-10-09 10:48:17,1m - 3.607s,FAILED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-09 10:47:13,2018-10-09 10:47:19,5.339s,FAILED
+openBrowser,Chrome 69.0.3497.100,,2018-10-09 10:47:14,2018-10-09 10:47:17,3.376s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-09 10:47:17,2018-10-09 10:47:19,1.442s,FAILED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-09 10:47:19,2018-10-09 10:47:23,4.564s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-09 10:47:19,2018-10-09 10:47:23,4.034s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 10:47:23,2018-10-09 10:47:23,0.168s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 10:47:23,2018-10-09 10:47:23,0.151s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-09 10:47:23,2018-10-09 10:47:57,33.433s,FAILED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-09 10:47:24,2018-10-09 10:47:57,33.147s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_15_ChooseMethodPayment_BTN_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-09 10:47:57,2018-10-09 10:48:08,10.884s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-09 10:47:57,2018-10-09 10:48:08,10.700s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-09 10:48:08,2018-10-09 10:48:16,8.335s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-09 10:48:08,2018-10-09 10:48:16,8.070s,FAILED

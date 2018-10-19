@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_00</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e98323bc-bc0f-4560-9556-afe64915c481</testCaseGuid>
+   <variable>
+      <defaultValue>'sue_sue'</defaultValue>
+      <description></description>
+      <id>99c72482-e0f6-4909-b114-d71b744ca258</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'sue123'</defaultValue>
+      <description></description>
+      <id>0769f0fc-da81-4482-94ab-515cb4e748b1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://member.blanjadev.com/member/login'</defaultValue>
+      <description></description>
+      <id>2f49060f-a690-4790-9a25-7cf50107aa9a</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://item.blanjadev.com/item/13296069'</defaultValue>
+      <description></description>
+      <id>b2f12ef4-a25c-4c2e-bc7f-123dbc7f84ec</id>
+      <masked>false</masked>
+      <name>PDPUrl</name>
+   </variable>
+</TestCaseEntity>

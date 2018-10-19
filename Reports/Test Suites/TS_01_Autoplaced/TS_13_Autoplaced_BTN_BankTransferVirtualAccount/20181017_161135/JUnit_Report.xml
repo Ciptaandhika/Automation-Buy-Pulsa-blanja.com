@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_13_Autoplaced_BTN_BankTransferVirtualAccount" time="29" tests="5" failures="0" errors="0">
+   <testsuite name="TS_13_Autoplaced_BTN_BankTransferVirtualAccount" tests="5" failures="0" errors="0" time="29" timestamp="2018-10-17 16:25:58" hostname="CIPTA-E460$ - CIPTA-E460.ad.metraplasa.co.id" id="Test Suites/Test Suites/TS_01_Autoplaced/TS_13_Autoplaced_BTN_BankTransferVirtualAccount">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\cipta.andhika\\Katalon Studio\\blanja.test\\blanja.test\\Reports\\Test Suites\\TS_01_Autoplaced\\TS_13_Autoplaced_BTN_BankTransferVirtualAccount\\20181017_161135"/>
+         <property name="logFiles" value="C:\\Users\\cipta.andhika\\Katalon Studio\\blanja.test\\blanja.test\\Reports\\Test Suites\\TS_01_Autoplaced\\TS_13_Autoplaced_BTN_BankTransferVirtualAccount\\20181017_161135\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="CIPTA-E460$ - CIPTA-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="10.10.99.0"/>
+         <property name="sessionId" value="ca291068d11ec4b5036af92b0382ebab"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/02_Member/TC_02010001_Member_Login" classname="Test Cases/02_Member/TC_02010001_Member_Login" status="PASSED">
+         <system-out><![CDATA[2018-10-17 16:25:58 - [TEST_CASE][PASSED] - Test Cases/02_Member/TC_02010001_Member_Login: Test Cases/02_Member/TC_02010001_Member_Login
+
+2018-10-17 16:25:59 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-17 16:26:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-17 16:26:02 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-10-17 16:26:03 - [MESSAGE][PASSED] - Current window maximized
+
+2018-10-17 16:26:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://member.blanja.com/member/login' successfully
+
+2018-10-17 16:26:05 - [MESSAGE][PASSED] - Navigate to 'https://member.blanja.com/member/login' successfully
+
+2018-10-17 16:26:05 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_nick'
+
+2018-10-17 16:26:05 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_nick'
+
+2018-10-17 16:26:05 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_password'
+
+2018-10-17 16:26:05 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/input_password'
+
+2018-10-17 16:26:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/a_Masuk' is clicked on
+
+2018-10-17 16:26:10 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_01010001_Mainsite/SC_02010001_Member_Login/a_Masuk' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang" classname="Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang" status="PASSED">
+         <system-out><![CDATA[2018-10-17 16:26:10 - [TEST_CASE][PASSED] - Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang: Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang
+
+2018-10-17 16:26:10 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://item.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-17 16:26:13 - [MESSAGE][PASSED] - Navigate to 'https://item.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-17 16:26:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_03010001_Product_PDP/i_x_button_TersediaLayananExpress' is clicked on
+
+2018-10-17 16:26:13 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_03010001_Product_PDP/i_x_button_TersediaLayananExpress' is clicked on
+
+2018-10-17 16:26:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_03010001_Product_PDP/span_Blanja sekarang' is clicked on
+
+2018-10-17 16:26:13 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_03010001_Product_PDP/span_Blanja sekarang' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout" classname="Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout" status="PASSED">
+         <system-out><![CDATA[2018-10-17 16:26:13 - [TEST_CASE][PASSED] - Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout: Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout
+
+2018-10-17 16:26:13 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'Kurir Standar' are selected in object 'Object Repository/SC_04010001_Trade_OrderConfirm/select_Pilih Jasa PengirimanKu'  using regular expression
+
+2018-10-17 16:26:14 - [MESSAGE][PASSED] - All options with value 'Kurir Standar' are selected in object 'Object Repository/SC_04010001_Trade_OrderConfirm/select_Pilih Jasa PengirimanKu'  using regular expression
+
+2018-10-17 16:26:14 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-17 16:26:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-17 16:26:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_04010001_Trade_OrderConfirm/input_checkOut' is clicked on
+
+2018-10-17 16:26:17 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_04010001_Trade_OrderConfirm/input_checkOut' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_13_ChooseMethodPayment_BTN_BankTransferVirtualAccount" classname="Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_13_ChooseMethodPayment_BTN_BankTransferVirtualAccount" status="PASSED">
+         <system-out><![CDATA[2018-10-17 16:26:17 - [TEST_CASE][PASSED] - Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_13_ChooseMethodPayment_BTN_BankTransferVirtualAccount: Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_13_ChooseMethodPayment_BTN_BankTransferVirtualAccount
+
+2018-10-17 16:26:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/RadioButtonPaymentMethod/rb_13_BTN_Bank_Transfer_Virtual_Account' is clicked on
+
+2018-10-17 16:26:19 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/RadioButtonPaymentMethod/rb_13_BTN_Bank_Transfer_Virtual_Account' is clicked on
+
+2018-10-17 16:26:19 - [TEST_STEP][PASSED] - Statement - paymentMethod = "BTN " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bank_Transfer_Virtual_Account)): Text of object 'Object Repository/SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bank_Transfer_Virtual_Account' is: 'Bank Transfer / Virtual Account'
+
+2018-10-17 16:26:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bank_Transfer_Virtual_Account' is: 'Bank Transfer / Virtual Account'
+
+2018-10-17 16:26:19 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-17 16:26:19 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" classname="Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" status="PASSED">
+         <system-out><![CDATA[2018-10-17 16:26:19 - [TEST_CASE][PASSED] - Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced: Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced
+
+2018-10-17 16:26:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/input_checkOut' is clicked on
+
+2018-10-17 16:26:23 - [MESSAGE][PASSED] - Object: 'Object Repository/SC_04010002_Trade_PaymentMethod/input_checkOut' is clicked on
+
+2018-10-17 16:26:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://member.blanja.com/trades/orderList.html' successfully
+
+2018-10-17 16:26:27 - [MESSAGE][PASSED] - Navigate to 'https://member.blanja.com/trades/orderList.html' successfully
+
+2018-10-17 16:26:27 - [TEST_STEP][PASSED] - Statement - orderNumber = " - " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber)): Text of object 'Object Repository/SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'Nomor Pemesanan :418695226173084019'
+
+2018-10-17 16:26:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'Nomor Pemesanan :418695226173084019'
+
+2018-10-17 16:26:27 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-17 16:26:27 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-17 16:25:58 - [TEST_SUITE][PASSED] - TS_13_Autoplaced_BTN_BankTransferVirtualAccount: Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

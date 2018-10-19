@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_BankTransferVirtualAccount,Firefox 60.0,,2018-10-07 09:54:05,2018-10-07 09:55:04,59.518s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Firefox 60.0,,2018-10-07 09:54:05,2018-10-07 09:54:35,29.755s,PASSED
+openBrowser,Firefox 60.0,,2018-10-07 09:54:06,2018-10-07 09:54:12,6.273s,PASSED
+maximizeWindow,Firefox 60.0,,2018-10-07 09:54:12,2018-10-07 09:54:12,0.115s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:54:12,2018-10-07 09:54:19,7.048s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:54:19,2018-10-07 09:54:20,0.249s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:54:20,2018-10-07 09:54:20,0.130s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:20,2018-10-07 09:54:35,15.314s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Firefox 60.0,,2018-10-07 09:54:35,2018-10-07 09:54:46,10.738s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:54:35,2018-10-07 09:54:45,9.942s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:45,2018-10-07 09:54:46,0.307s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:46,2018-10-07 09:54:46,0.124s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Firefox 60.0,,2018-10-07 09:54:46,2018-10-07 09:54:50,3.956s,PASSED
+selectOptionByValue,Firefox 60.0,,2018-10-07 09:54:46,2018-10-07 09:54:49,3.397s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:49,2018-10-07 09:54:50,0.275s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_01_ChooseMethodPayment_Mandiri_TransferBank,Firefox 60.0,,2018-10-07 09:54:50,2018-10-07 09:54:55,5.245s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:50,2018-10-07 09:54:55,4.883s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bank_Transfer_Virtual_Account))",Firefox 60.0,,2018-10-07 09:54:55,2018-10-07 09:54:55,0.103s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Firefox 60.0,,2018-10-07 09:54:55,2018-10-07 09:54:55,0.036s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Firefox 60.0,,2018-10-07 09:54:55,2018-10-07 09:55:04,8.856s,PASSED
+click,Firefox 60.0,,2018-10-07 09:54:55,2018-10-07 09:54:56,0.309s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:54:56,2018-10-07 09:55:04,8.104s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Firefox 60.0,,2018-10-07 09:55:04,2018-10-07 09:55:04,0.063s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Firefox 60.0,,2018-10-07 09:55:04,2018-10-07 09:55:04,0.010s,PASSED

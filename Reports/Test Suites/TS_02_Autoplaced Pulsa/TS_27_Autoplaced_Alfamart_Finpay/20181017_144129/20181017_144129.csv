@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_27_Autoplaced_Alfamart_Finpay,Chrome 69.0.3497.100,,2018-10-17 15:26:32,2018-10-17 15:27:43,1m - 10.651s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:26:33,2018-10-17 15:26:38,5.250s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:26:33,2018-10-17 15:26:38,4.819s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_27_ChooseMethodPayment_Alfamart_Finpay,Chrome 69.0.3497.100,,2018-10-17 15:26:38,2018-10-17 15:27:10,32.113s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:26:38,2018-10-17 15:27:10,31.920s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:27:10,2018-10-17 15:27:42,32.339s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:27:10,2018-10-17 15:27:42,32.178s,FAILED

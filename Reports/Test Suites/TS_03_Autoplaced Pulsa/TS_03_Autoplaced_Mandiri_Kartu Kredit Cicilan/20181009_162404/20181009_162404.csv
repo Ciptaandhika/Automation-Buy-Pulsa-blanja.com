@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_03_Autoplaced_Mandiri_Kartu Kredit Cicilan,Chrome 69.0.3497.100,,2018-10-09 16:24:06,2018-10-09 16:25:07,1m - 0.594s,PASSED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-09 16:24:06,2018-10-09 16:25:05,58.606s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-09 16:24:07,2018-10-09 16:24:42,35.651s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:42,2018-10-09 16:24:47,4.015s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:24:47,2018-10-09 16:24:47,0.171s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:47,2018-10-09 16:24:49,2.006s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:24:49,2018-10-09 16:24:49,0.171s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:49,2018-10-09 16:24:51,2.004s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-09 16:24:51,2018-10-09 16:24:52,0.716s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:52,2018-10-09 16:24:55,3.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:24:55,2018-10-09 16:24:55,0.122s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:55,2018-10-09 16:24:57,2.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:24:57,2018-10-09 16:24:57,0.238s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:24:57,2018-10-09 16:24:59,2.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:24:59,2018-10-09 16:25:03,4.039s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-09 16:25:03,2018-10-09 16:25:05,2.006s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_02_ChooseMethodPayment_Mandiri_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-09 16:25:05,2018-10-09 16:25:06,0.762s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:25:05,2018-10-09 16:25:06,0.347s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_Mandiri Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.084s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.030s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_02_ChooseMethodPayment_Mandiri_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.096s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.052s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_Mandiri Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.030s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-09 16:25:06,2018-10-09 16:25:06,0.001s,PASSED

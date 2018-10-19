@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_17_Autoplaced_BCA_KlikPay,Chrome 69.0.3497.100,,2018-10-17 16:30:34,2018-10-17 16:30:57,23.611s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-17 16:30:34,2018-10-17 16:30:45,11.159s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-17 16:30:34,2018-10-17 16:30:37,3.016s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-17 16:30:37,2018-10-17 16:30:38,1.154s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:30:38,2018-10-17 16:30:40,1.588s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:30:40,2018-10-17 16:30:40,0.179s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:30:40,2018-10-17 16:30:40,0.140s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:40,2018-10-17 16:30:45,4.690s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-17 16:30:45,2018-10-17 16:30:48,2.985s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:30:45,2018-10-17 16:30:48,2.593s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:48,2018-10-17 16:30:48,0.111s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:48,2018-10-17 16:30:48,0.125s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-17 16:30:48,2018-10-17 16:30:51,3.508s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-17 16:30:48,2018-10-17 16:30:49,1.256s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:30:49,2018-10-17 16:30:51,2.016s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:51,2018-10-17 16:30:51,0.115s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_17_ChooseMethodPayment_BCA_KlikPay,Chrome 69.0.3497.100,,2018-10-17 16:30:51,2018-10-17 16:30:54,2.044s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:52,2018-10-17 16:30:53,1.844s,PASSED
+"Statement - paymentMethod = ""BCA "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_BCA KlikPay))",Chrome 69.0.3497.100,,2018-10-17 16:30:53,2018-10-17 16:30:54,0.060s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:30:54,2018-10-17 16:30:54,0.023s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:30:54,2018-10-17 16:30:56,2.930s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:30:54,2018-10-17 16:30:55,1.144s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:30:55,2018-10-17 16:30:56,1.449s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-17 16:30:56,2018-10-17 16:30:56,0.195s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:30:56,2018-10-17 16:30:56,0.005s,PASSED

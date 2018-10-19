@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eab0cc6d-ab8b-437e-9cb1-2ee3ae09a63e</testCaseGuid>
+</TestCaseEntity>

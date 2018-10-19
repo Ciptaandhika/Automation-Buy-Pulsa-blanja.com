@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rb_9_Kartu_Kredit_Cicilan</name>
+   <tag></tag>
+   <elementGuidId>a6b89bd4-0418-4f88-81e4-3e64bccdbe0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/div[1]/div[2]/div[1]/div[2]/ul/li[6]/ul/li/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/div[1]/div[2]/div[1]/div[2]/ul/li[6]/ul/li/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>

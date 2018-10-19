@@ -1,0 +1,71 @@
+
+REGULER
+
+Thu Oct 11 16:32:14 ICT 2018 - Mandiri Transfer Bank -  - Nomor Pemesanan :418680832121284019
+Thu Oct 11 16:20:57 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418680820569184019
+Thu Oct 11 16:21:26 ICT 2018 - Mandiri Kartu Kredit Cicilan -  - Nomor Pemesanan :418680821244084019
+Thu Oct 11 16:21:54 ICT 2018 - Mandiri Kartu Kredit -  - Nomor Pemesanan :418680821527784019
+Thu Oct 11 16:22:23 ICT 2018 - Mandiri Mandiri E-Cash -  - Nomor Pemesanan :418680822219284019
+Thu Oct 11 16:22:53 ICT 2018 - BNI Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680822536184019
+Thu Oct 11 16:23:23 ICT 2018 - BNI BNI Debit Online -  - Nomor Pemesanan :418680823212984019
+Thu Oct 11 16:23:55 ICT 2018 - BNI Kartu Kredit -  - Nomor Pemesanan :418680823531884019
+Thu Oct 11 16:24:24 ICT 2018 - BNI SMS Payment -  - Nomor Pemesanan :418680824226784019
+Thu Oct 11 16:24:49 ICT 2018 - BRI Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680824474684019
+Thu Oct 11 16:25:16 ICT 2018 - BRI e-Pay BRI -  - Nomor Pemesanan :418680825145984019
+Thu Oct 11 16:25:45 ICT 2018 - BRI Kartu Kredit -  - Nomor Pemesanan :418680825438084019
+Thu Oct 11 16:26:14 ICT 2018 - BTN Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680826123484019
+Thu Oct 11 16:26:43 ICT 2018 - BTN BTN Debit Online -  - Nomor Pemesanan :418680826406484019
+Thu Oct 11 16:27:10 ICT 2018 - BTN Kartu Kredit -  - Nomor Pemesanan :418680827085284019
+Thu Oct 11 16:27:38 ICT 2018 - BCA KlikBCA -  - Nomor Pemesanan :418680827361184019
+Thu Oct 11 16:28:09 ICT 2018 - BCA BCA KlikPay -  - Nomor Pemesanan :418680828067484019
+Thu Oct 11 16:28:09 ICT 2018 - Tcash - - Nomor Pemesanan :418680829066984019
+Thu Oct 11 16:29:35 ICT 2018 - Finpay Bayar di ATM Menu Telkom -  - Nomor Pemesanan :418680829335484019
+Thu Oct 11 16:30:06 ICT 2018 - Finpay Bayar via T-Money -  - Nomor Pemesanan :418680830047084019
+Thu Oct 11 16:19:10 ICT 2018 - Finpay Bayar via T-Money -  - Nomor Pemesanan :418680819071884019
+Thu Oct 11 16:19:46 ICT 2018 - Bank Transfer -  - Nomor Pemesanan :418680819446784019
+Thu Oct 11 16:20:17 ICT 2018 - Kartu Kredit -  - Nomor Pemesanan :418680820151384019
+Thu Oct 11 16:20:47 ICT 2018 - Debit Online -  - Nomor Pemesanan :418680820447484019
+Thu Oct 11 16:21:19 ICT 2018 - Kartu Kredit Cicilan -  - Nomor Pemesanan :418680821174484019
+Thu Oct 11 16:21:50 ICT 2018 - Indomaret -  - Nomor Pemesanan :418680821487484019
+Thu Oct 11 16:22:21 ICT 2018 - Alfamart via Finpay -  - Nomor Pemesanan :418680822219284019
+Thu Oct 11 16:22:56 ICT 2018 - Pegadaian via Finpay -  - Nomor Pemesanan :418680822536184019
+Thu Oct 11 16:23:30 ICT 2018 - Pos Indonesia via Finpay -  - Nomor Pemesanan :418680823286784019
+
+PULSA
+
+Thu Oct 11 17:17:23 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418680917194423019
+Thu Oct 11 17:17:58 ICT 2018 - Mandiri Kartu Kredit -  - Nomor Pemesanan :418680917547623019
+Thu Oct 11 17:18:37 ICT 2018 - Mandiri Kartu Kredit Cicilan -  - Nomor Pemesanan :418680918331723019
+Thu Oct 11 17:19:10 ICT 2018 - Mandiri Mandiri E-Cash -  - Nomor Pemesanan :418680919064323019
+Thu Oct 11 17:19:45 ICT 2018 - BNI Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680919401523019
+Thu Oct 11 17:20:21 ICT 2018 - BNI BNI Debit Online -  - Nomor Pemesanan :418680920176323019
+Thu Oct 11 17:20:56 ICT 2018 - BNI Kartu Kredit -  - Nomor Pemesanan :418680920525323019
+Thu Oct 11 17:21:32 ICT 2018 - BNI SMS Payment -  - Nomor Pemesanan :418680921283723019
+Thu Oct 11 17:22:06 ICT 2018 - BRI Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680922029623019
+Thu Oct 11 17:22:43 ICT 2018 - BRI e-Pay BRI -  - Nomor Pemesanan :418680922387723019
+Thu Oct 11 17:23:19 ICT 2018 - BRI Kartu Kredit -  - Nomor Pemesanan :418680923145823019
+Thu Oct 11 17:24:00 ICT 2018 - BRI Kartu Kredit Cicilan -  - Nomor Pemesanan :418680923554723019
+Thu Oct 11 17:24:35 ICT 2018 - BTN Bank Transfer / Virtual Account -  - Nomor Pemesanan :418680924311423019
+Thu Oct 11 17:25:15 ICT 2018 - BTN BTN Debit Online -  - Nomor Pemesanan :418680925084823019
+Thu Oct 11 17:25:52 ICT 2018 - BTN Kartu Kredit -  - Nomor Pemesanan :418680925487023019
+Thu Oct 11 17:26:28 ICT 2018 - BCA KlikBCA -  - Nomor Pemesanan :418680926238123019
+Thu Oct 11 17:27:02 ICT 2018 - BCA BCA KlikPay -  - Nomor Pemesanan :418680926589923019
+Thu Oct 11 17:27:38 ICT 2018 - BCA BCA Virtual Account -  - Nomor Pemesanan :418680927349023019
+Thu Oct 11 17:28:20 ICT 2018 - t-cash -  - Nomor pesanan :418680928142323019
+Thu Oct 11 17:29:26 ICT 2018 - Finpay Bayar di ATM Menu Telkom -  - Nomor Pemesanan :418680929228923019
+Thu Oct 11 17:30:02 ICT 2018 - Finpay Bayar via T-Money -  - Nomor Pemesanan :418680929577023019
+Thu Oct 11 17:30:39 ICT 2018 - Bank Transfer -  - Nomor Pemesanan :418680930351023019
+Thu Oct 11 17:31:16 ICT 2018 - Kartu Kredit -  - Nomor Pemesanan :418680931127723019
+Thu Oct 11 17:31:52 ICT 2018 - Kartu Kredit Cicilan -  - Nomor Pemesanan :418680931479223019
+Thu Oct 11 17:32:27 ICT 2018 - Debit Online -  - Nomor Pemesanan :418680932239023019
+Thu Oct 11 17:33:03 ICT 2018 - Indomaret -  - Nomor Pemesanan :418680932591223019
+Thu Oct 11 17:33:38 ICT 2018 - Alfamart via Finpay -  - Nomor Pemesanan :418680933331323019
+Thu Oct 11 17:34:15 ICT 2018 - Pegadaian via Finpay -  - Nomor Pemesanan :418680934114523019
+Thu Oct 11 17:34:53 ICT 2018 - Pos Indonesia via Finpay -  - Nomor Pemesanan :418680934482923019
+Fri Oct 12 08:42:21 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418682442181123019
+Fri Oct 12 09:17:55 ICT 2018 - Mandiri Kartu Kredit -  - Nomor Pemesanan :418682517513223019
+Fri Oct 12 17:07:34 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418683307312123019
+Wed Oct 17 09:25:01 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418694524592623019
+Wed Oct 17 09:39:35 ICT 2018 - Mandiri Transfer Bank -  - Nomor Pemesanan :418694539333984019
+Wed Oct 17 14:32:47 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418695032447223019
+Wed Oct 17 15:52:57 ICT 2018 - Mandiri Mandiri Debit Online -  - Nomor Pemesanan :418695152544923019

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_21_Autoplaced_Finpay_TMoney,Chrome 69.0.3497.100,,2018-10-17 15:15:19,2018-10-17 15:16:30,1m - 10.900s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:15:20,2018-10-17 15:15:25,5.539s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:15:20,2018-10-17 15:15:25,5.053s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_20_ChooseMethodPayment_Finpay_TMoney,Chrome 69.0.3497.100,,2018-10-17 15:15:25,2018-10-17 15:15:57,32.068s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:15:25,2018-10-17 15:15:57,31.934s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:15:57,2018-10-17 15:16:29,32.004s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:15:58,2018-10-17 15:16:29,31.445s,FAILED

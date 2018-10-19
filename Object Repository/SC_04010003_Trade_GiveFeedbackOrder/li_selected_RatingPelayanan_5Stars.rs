@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_selected_RatingPelayanan_5Stars</name>
+   <tag></tag>
+   <elementGuidId>7baf5c2e-8d95-4724-bf7c-6f169e85b3a4</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cur</name>
+      <type>Main</type>
+      <value>commnunication</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scoreForm&quot;)/div[@class=&quot;feedback-content clear&quot;]/ul[@class=&quot;store&quot;]/li[@class=&quot;discr&quot;]/div[@class=&quot;communication&quot;]/div[@class=&quot;rating&quot;]/ul[1]/li[@class=&quot;selected&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

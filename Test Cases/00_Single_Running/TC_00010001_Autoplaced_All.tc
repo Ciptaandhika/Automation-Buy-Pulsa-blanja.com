@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_00010001_Autoplaced_All</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90c10907-c87f-422f-b2d6-a826725f2da1</testCaseGuid>
+   <variable>
+      <defaultValue>'crontester1_gmail_com'</defaultValue>
+      <description></description>
+      <id>14cd3ffa-903c-40ce-8fa1-454ac116371e</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cr0nT3st3r1'</defaultValue>
+      <description></description>
+      <id>db5906dc-1e84-4f78-a20c-cd34fb98bd75</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://member.blanja.com/member/login'</defaultValue>
+      <description></description>
+      <id>8910f4b9-2693-4118-b5fe-fe99dd549b29</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://item.blanja.com/item/17590925'</defaultValue>
+      <description></description>
+      <id>d05a4006-93b5-4108-8171-2d73f9c0b78a</id>
+      <masked>false</masked>
+      <name>PDPUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://member.blanja.com/trades/orderList.html'</defaultValue>
+      <description></description>
+      <id>69212ad7-7922-4877-9105-025b42b905e2</id>
+      <masked>false</masked>
+      <name>memberOrderListUrl</name>
+   </variable>
+</TestCaseEntity>

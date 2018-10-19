@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_10_Autoplaced_BRI_EPay,Chrome 69.0.3497.100,,2018-10-17 14:54:24,2018-10-17 14:55:35,1m - 10.730s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 14:54:24,2018-10-17 14:54:30,5.256s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:54:25,2018-10-17 14:54:30,4.757s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_11_ChooseMethodPayment_BRI_E_Pay,Chrome 69.0.3497.100,,2018-10-17 14:54:30,2018-10-17 14:55:02,32.133s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:54:30,2018-10-17 14:55:02,32.001s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:55:02,2018-10-17 14:55:34,32.389s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:55:02,2018-10-17 14:55:34,32.150s,FAILED

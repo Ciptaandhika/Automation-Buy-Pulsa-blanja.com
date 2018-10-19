@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rb_24_Kartu_Kredit_Cicilan</name>
+   <tag></tag>
+   <elementGuidId>002099f7-97de-4109-ac54-a3441e520582</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vt_cc_inst_mandiri</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container940 clearfix choose-payment&quot;]/div[@class=&quot;full-content&quot;]/div[@class=&quot;container-white mt20&quot;]/ul[@class=&quot;payment-list border-container pt0 clearfix&quot;]/div[@class=&quot;clearfix&quot;]/li[@class=&quot;pl&quot;]/ul[@class=&quot;payment-option&quot;]/li[5]/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>

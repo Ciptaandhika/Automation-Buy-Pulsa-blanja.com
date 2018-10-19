@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_02_Autoplaced_Mandiri_Kartu Kredit,Chrome 69.0.3497.100,,2018-10-17 15:38:49,2018-10-17 15:40:26,1m - 37.823s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:38:49,2018-10-17 15:39:05,16.385s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:38:49,2018-10-17 15:39:02,12.244s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 15:39:02,2018-10-17 15:39:04,2.012s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 15:39:04,2018-10-17 15:39:04,0.133s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 15:39:04,2018-10-17 15:39:05,1.003s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 15:39:05,2018-10-17 15:39:05,0.534s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_01_ChooseMethodPayment_Mandiri_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 15:39:05,2018-10-17 15:39:39,33.281s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:39:05,2018-10-17 15:39:39,33.104s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:39:39,2018-10-17 15:40:26,47.150s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:39:39,2018-10-17 15:40:26,46.991s,FAILED

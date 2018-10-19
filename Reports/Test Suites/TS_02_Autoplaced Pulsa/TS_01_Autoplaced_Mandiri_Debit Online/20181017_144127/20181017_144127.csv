@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_Debit Online,Chrome 69.0.3497.100,,2018-10-17 14:41:32,2018-10-17 14:42:44,1m - 11.479s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa_1,Chrome 69.0.3497.100,,2018-10-17 14:41:32,2018-10-17 14:41:38,5.565s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:41:33,2018-10-17 14:41:38,5.122s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_02_ChooseMethodPayment_Mandiri_MandiriDebitOnline,Chrome 69.0.3497.100,,2018-10-17 14:41:38,2018-10-17 14:42:10,32.411s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:41:38,2018-10-17 14:42:10,32.235s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:42:10,2018-10-17 14:42:43,32.472s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:42:11,2018-10-17 14:42:43,32.275s,FAILED

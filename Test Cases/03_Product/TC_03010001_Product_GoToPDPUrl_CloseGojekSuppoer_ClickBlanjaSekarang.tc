@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3422a5e9-16bb-40f7-9ad6-1c6e20895d57</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonBlanja_TembakURL</name>
+   <tag></tag>
+   <elementGuidId>e0f0a093-4cae-4863-a7ad-73fca7c189fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/section[2]/div/div[1]/div[2]/div[1]/form/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/section[2]/div/div[1]/div[2]/div[1]/form/div[4]/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_19_Autoplaced_TCash,Chrome 69.0.3497.100,,2018-10-17 15:11:34,2018-10-17 15:12:45,1m - 11.445s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:11:34,2018-10-17 15:11:40,5.294s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:11:35,2018-10-17 15:11:40,4.810s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_18_ChooseMethodPayment_TCash,Chrome 69.0.3497.100,,2018-10-17 15:11:40,2018-10-17 15:12:12,32.483s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:11:40,2018-10-17 15:12:12,32.340s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:12:12,2018-10-17 15:12:45,32.702s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:12:12,2018-10-17 15:12:45,32.525s,FAILED

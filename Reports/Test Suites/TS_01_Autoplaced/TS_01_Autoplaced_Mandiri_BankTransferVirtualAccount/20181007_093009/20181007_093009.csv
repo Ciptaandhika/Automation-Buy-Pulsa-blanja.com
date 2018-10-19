@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_BankTransferVirtualAccount,Firefox 60.0,,2018-10-07 09:30:11,2018-10-07 09:31:35,1m - 23.330s,FAILED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Firefox 60.0,,2018-10-07 09:30:12,2018-10-07 09:30:39,27.645s,PASSED
+openBrowser,Firefox 60.0,,2018-10-07 09:30:12,2018-10-07 09:30:18,5.668s,PASSED
+maximizeWindow,Firefox 60.0,,2018-10-07 09:30:18,2018-10-07 09:30:18,0.058s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:30:18,2018-10-07 09:30:23,5.557s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:30:23,2018-10-07 09:30:24,0.201s,PASSED
+setText,Firefox 60.0,,2018-10-07 09:30:24,2018-10-07 09:30:24,0.148s,PASSED
+click,Firefox 60.0,,2018-10-07 09:30:24,2018-10-07 09:30:39,15.560s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Firefox 60.0,,2018-10-07 09:30:39,2018-10-07 09:30:49,9.605s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:30:40,2018-10-07 09:30:48,8.860s,PASSED
+click,Firefox 60.0,,2018-10-07 09:30:48,2018-10-07 09:30:49,0.322s,PASSED
+click,Firefox 60.0,,2018-10-07 09:30:49,2018-10-07 09:30:49,0.142s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Firefox 60.0,,2018-10-07 09:30:49,2018-10-07 09:30:53,3.701s,PASSED
+selectOptionByValue,Firefox 60.0,,2018-10-07 09:30:49,2018-10-07 09:30:52,3.013s,PASSED
+click,Firefox 60.0,,2018-10-07 09:30:52,2018-10-07 09:30:53,0.384s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_01_ChooseMethodPayment_Mandiri_BankTransferVirtualAccount,Firefox 60.0,,2018-10-07 09:30:53,2018-10-07 09:31:25,32.502s,FAILED
+click,Firefox 60.0,,2018-10-07 09:30:53,2018-10-07 09:31:25,32.324s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Firefox 60.0,,2018-10-07 09:31:25,2018-10-07 09:31:34,9.001s,FAILED
+click,Firefox 60.0,,2018-10-07 09:31:25,2018-10-07 09:31:26,0.334s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-07 09:31:26,2018-10-07 09:31:34,8.106s,PASSED
+click,Firefox 60.0,,2018-10-07 09:31:34,2018-10-07 09:31:34,0.270s,FAILED

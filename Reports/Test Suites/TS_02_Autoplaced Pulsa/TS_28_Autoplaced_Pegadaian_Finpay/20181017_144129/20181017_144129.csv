@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_28_Autoplaced_Pegadaian_Finpay,Chrome 69.0.3497.100,,2018-10-17 15:28:23,2018-10-17 15:29:33,1m - 10.389s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 15:28:23,2018-10-17 15:28:29,5.223s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 15:28:24,2018-10-17 15:28:29,4.816s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_28_ChooseMethodPayment_Pegadaian_Finpay,Chrome 69.0.3497.100,,2018-10-17 15:28:29,2018-10-17 15:29:01,32.065s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:28:29,2018-10-17 15:29:01,31.898s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 15:29:01,2018-10-17 15:29:33,32.120s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 15:29:01,2018-10-17 15:29:33,31.920s,FAILED

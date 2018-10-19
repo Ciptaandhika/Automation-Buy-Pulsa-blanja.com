@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_07_Autoplaced_BNI_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 16:17:43,2018-10-17 16:18:32,48.169s,FAILED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-17 16:17:44,2018-10-17 16:17:59,15.619s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-17 16:17:44,2018-10-17 16:17:47,3.242s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-17 16:17:47,2018-10-17 16:17:48,1.154s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:17:48,2018-10-17 16:17:50,1.261s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:17:50,2018-10-17 16:17:50,0.175s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:17:50,2018-10-17 16:17:50,0.129s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:17:50,2018-10-17 16:17:59,9.335s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-17 16:17:59,2018-10-17 16:18:09,9.445s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:17:59,2018-10-17 16:18:09,9.127s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:18:09,2018-10-17 16:18:09,0.093s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:18:09,2018-10-17 16:18:09,0.086s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-17 16:18:09,2018-10-17 16:18:13,3.864s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-17 16:18:09,2018-10-17 16:18:10,1.621s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:18:10,2018-10-17 16:18:12,2.016s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:18:12,2018-10-17 16:18:13,0.110s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_07_ChooseMethodPayment_BNI_Debit_Online,Chrome 69.0.3497.100,,2018-10-17 16:18:13,2018-10-17 16:18:16,3.649s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:18:13,2018-10-17 16:18:16,3.455s,PASSED
+"Statement - paymentMethod = ""BNI "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_BNI Debit Online))",Chrome 69.0.3497.100,,2018-10-17 16:18:16,2018-10-17 16:18:16,0.058s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-17 16:18:16,2018-10-17 16:18:16,0.020s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:18:16,2018-10-17 16:18:31,14.612s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 16:18:16,2018-10-17 16:18:20,3.536s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-17 16:18:20,2018-10-17 16:18:31,10.897s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-17 16:18:31,2018-10-17 16:18:31,0.046s,FAILED

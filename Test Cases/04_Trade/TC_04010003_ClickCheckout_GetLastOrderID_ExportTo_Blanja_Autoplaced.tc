@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd0dded7-e80f-4d74-9b6f-9d21b1010019</testCaseGuid>
+</TestCaseEntity>

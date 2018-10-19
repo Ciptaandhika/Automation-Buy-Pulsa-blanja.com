@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d49e62e6-6925-4ef0-bc09-9248805d4bd5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_12_Autoplaced_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-17 16:02:19,2018-10-17 16:03:55,1m - 35.956s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 16:02:19,2018-10-17 16:02:34,15.096s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 16:02:20,2018-10-17 16:02:31,11.004s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:02:31,2018-10-17 16:02:33,2.010s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-17 16:02:33,2018-10-17 16:02:33,0.107s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-17 16:02:33,2018-10-17 16:02:34,1.002s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-17 16:02:34,2018-10-17 16:02:34,0.531s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_05_ChooseMethodPayment_BRI_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-17 16:02:34,2018-10-17 16:03:07,32.587s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 16:02:35,2018-10-17 16:03:07,32.397s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 16:03:07,2018-10-17 16:03:54,47.298s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 16:03:07,2018-10-17 16:03:54,47.056s,FAILED

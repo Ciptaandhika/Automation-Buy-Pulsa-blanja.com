@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_03_Autoplaced_Mandiri_Kartu Kredit Cicilan,Chrome 69.0.3497.100,,2018-10-17 14:43:58,2018-10-17 14:45:10,1m - 12.063s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 14:43:59,2018-10-17 14:44:04,5.767s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:43:59,2018-10-17 14:44:04,5.215s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_02_ChooseMethodPayment_Mandiri_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-17 14:44:04,2018-10-17 14:44:37,32.620s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:44:05,2018-10-17 14:44:37,32.421s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:44:37,2018-10-17 14:45:10,32.659s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:44:37,2018-10-17 14:45:10,32.486s,FAILED

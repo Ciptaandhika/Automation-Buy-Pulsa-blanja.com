@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_03_Autoplaced_Mandiri_Kartu Kredit Cicilan,Chrome 69.0.3497.100,,2018-10-11 16:40:21,2018-10-11 16:40:58,36.869s,PASSED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-11 16:40:22,2018-10-11 16:40:55,32.904s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-11 16:40:22,2018-10-11 16:40:34,12.033s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:34,2018-10-11 16:40:38,4.010s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:38,2018-10-11 16:40:38,0.146s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:38,2018-10-11 16:40:40,2.002s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:40,2018-10-11 16:40:40,0.132s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:40,2018-10-11 16:40:42,2.005s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-11 16:40:42,2018-10-11 16:40:43,0.656s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:43,2018-10-11 16:40:46,3.004s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:46,2018-10-11 16:40:46,0.110s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:46,2018-10-11 16:40:48,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:48,2018-10-11 16:40:48,0.184s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:48,2018-10-11 16:40:50,2.003s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:50,2018-10-11 16:40:53,2.202s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:40:53,2018-10-11 16:40:55,2.003s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_02_ChooseMethodPayment_Mandiri_Kartu_Kredit_Cicilan,Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:55,0.604s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:55,0.313s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethodPulsa/label_Mandiri Kartu Kredit Cicilan))",Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:55,0.077s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:55,0.021s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:57,2.267s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:40:55,2018-10-11 16:40:56,0.289s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 16:40:56,2018-10-11 16:40:57,1.660s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-11 16:40:57,2018-10-11 16:40:57,0.053s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:40:57,2018-10-11 16:40:57,0.007s,PASSED

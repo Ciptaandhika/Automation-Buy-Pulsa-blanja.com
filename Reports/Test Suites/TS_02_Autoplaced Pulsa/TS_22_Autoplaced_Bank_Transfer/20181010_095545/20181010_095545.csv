@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_22_Autoplaced_Bank_Transfer,Chrome 69.0.3497.100,,2018-10-10 09:55:48,2018-10-10 09:56:35,47.405s,PASSED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-10 09:55:48,2018-10-10 09:56:26,37.853s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-10 09:55:49,2018-10-10 09:56:04,15.720s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:04,2018-10-10 09:56:08,4.013s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:08,2018-10-10 09:56:09,0.306s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:09,2018-10-10 09:56:11,2.006s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:11,2018-10-10 09:56:11,0.235s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:11,2018-10-10 09:56:13,2.004s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-10 09:56:13,2018-10-10 09:56:14,1.032s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:14,2018-10-10 09:56:17,3.007s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:17,2018-10-10 09:56:17,0.217s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:17,2018-10-10 09:56:19,2.005s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:19,2018-10-10 09:56:19,0.236s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:19,2018-10-10 09:56:21,2.007s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:21,2018-10-10 09:56:24,2.568s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-10 09:56:24,2018-10-10 09:56:26,2.005s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_21_ChooseMethodPayment_Bank_Transfer,Chrome 69.0.3497.100,,2018-10-10 09:56:26,2018-10-10 09:56:27,0.877s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:26,2018-10-10 09:56:27,0.421s,PASSED
+Statement - paymentMethod = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_Bank_Transfer)),Chrome 69.0.3497.100,,2018-10-10 09:56:27,2018-10-10 09:56:27,0.103s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-10 09:56:27,2018-10-10 09:56:27,0.048s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-10 09:56:27,2018-10-10 09:56:34,7.376s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 09:56:27,2018-10-10 09:56:32,4.905s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-10 09:56:32,2018-10-10 09:56:34,1.977s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-10 09:56:34,2018-10-10 09:56:34,0.077s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-10 09:56:34,2018-10-10 09:56:34,0.009s,PASSED

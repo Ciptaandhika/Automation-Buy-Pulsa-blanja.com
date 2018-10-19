@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_26_Autoplaced_Indomaret,Chrome 69.0.3497.100,,2018-10-11 17:00:09,2018-10-11 17:02:19,2m - 9.677s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-11 17:00:09,2018-10-11 17:00:58,49.220s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-11 17:00:10,2018-10-11 17:00:22,11.869s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 17:00:22,2018-10-11 17:00:26,4.015s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 17:00:26,2018-10-11 17:00:58,32.923s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_26_ChooseMethodPayment_Indomaret,Chrome 69.0.3497.100,,2018-10-11 17:00:58,2018-10-11 17:01:31,32.945s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-11 17:00:59,2018-10-11 17:01:31,32.782s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-11 17:01:31,2018-10-11 17:02:18,46.435s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-11 17:01:32,2018-10-11 17:02:18,46.232s,FAILED

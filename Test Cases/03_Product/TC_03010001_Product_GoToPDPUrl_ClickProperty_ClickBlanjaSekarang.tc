@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03010001_Product_GoToPDPUrl_ClickProperty_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cda0606-fde3-4389-bc74-7ff1fc82c1e4</testCaseGuid>
+   <variable>
+      <defaultValue>'https://item.blanjadev.com/item/13296069'</defaultValue>
+      <description></description>
+      <id>0b280fe2-9494-40db-9b61-2c18584bee22</id>
+      <masked>false</masked>
+      <name>PDPUrl</name>
+   </variable>
+</TestCaseEntity>

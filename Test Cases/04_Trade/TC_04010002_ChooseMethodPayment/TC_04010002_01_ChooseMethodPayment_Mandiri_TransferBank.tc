@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_01_ChooseMethodPayment_Mandiri_TransferBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0b58554-5547-4136-89f7-edc8991657c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02010002_Seller_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e73644e-7a94-4cf2-8ad4-b817b80c05a0</testCaseGuid>
+   <variable>
+      <defaultValue>'robpatt'</defaultValue>
+      <description></description>
+      <id>55e519dc-ca68-4108-9182-f9880bdc2966</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'123qwe'</defaultValue>
+      <description></description>
+      <id>6dff884c-17a0-4907-9988-5b16e9ba73af</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://member.blanja.com/member/login'</defaultValue>
+      <description></description>
+      <id>4c43bfd2-4308-4fa6-b59e-66fd220b71f8</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+</TestCaseEntity>

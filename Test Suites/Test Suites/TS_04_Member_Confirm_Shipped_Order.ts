@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_04_Member_Confirm_Shipped_Order</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-04-03T11:16:14</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>324b1557-4683-470b-80c3-1647723a1f21</testSuiteGuid>
+   <testCaseLink>
+      <guid>1a796541-db15-480d-908f-c766a6a58e20</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_Member/TC_02010001_Member_Login</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de5bdfea-22b2-4680-955d-661fa74a4b77</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_Member/TC_02010003_Member_GoToBlanjaanSaya_ConfirmShippedOrder</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e6861f72-5a39-4e27-9f8d-23fb44b4542c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>debe6c2f-2975-42f4-8f01-3490946b331c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0f0aa15c-c102-4c67-a757-23450b1ba3db</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

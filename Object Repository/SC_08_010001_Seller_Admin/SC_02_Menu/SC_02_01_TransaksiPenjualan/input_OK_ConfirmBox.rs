@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_OK_ConfirmBox</name>
+   <tag></tag>
+   <elementGuidId>d473ae24-fc68-4e1a-83d1-725c50de5a2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;confirmShip&quot;)/div[@class=&quot;btn-dialog clear&quot;]/input[@class=&quot;g-orange-button w90 fRight&quot;][count(. | //input[@type = 'button' and contains(@class, 'fRight') and @value = 'OK' and (text() = 'OK' or . = 'OK')]) = count(//input[@type = 'button' and contains(@class, 'fRight') and @value = 'OK' and (text() = 'OK' or . = 'OK')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fRight</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>OK</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirmShip&quot;)/div[@class=&quot;btn-dialog clear&quot;]/input[@class=&quot;g-orange-button w90 fRight&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

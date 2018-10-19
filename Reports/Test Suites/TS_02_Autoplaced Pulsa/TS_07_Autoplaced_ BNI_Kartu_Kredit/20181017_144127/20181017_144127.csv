@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_07_Autoplaced_ BNI_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 14:48:49,2018-10-17 14:50:00,1m - 10.733s,FAILED
+,,,,,,
+Test Cases/10_Test Case Besar Pulsa/Pulsa,Chrome 69.0.3497.100,,2018-10-17 14:48:50,2018-10-17 14:48:55,5.160s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-17 14:48:50,2018-10-17 14:48:55,4.746s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPaymentPulsa/TC_04010002_03_ChooseMethodPayment_BNI_Kartu_Kredit,Chrome 69.0.3497.100,,2018-10-17 14:48:55,2018-10-17 14:49:27,32.346s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:48:55,2018-10-17 14:49:27,32.140s,FAILED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-17 14:49:27,2018-10-17 14:50:00,32.242s,FAILED
+click,Chrome 69.0.3497.100,,2018-10-17 14:49:27,2018-10-17 14:50:00,32.065s,FAILED

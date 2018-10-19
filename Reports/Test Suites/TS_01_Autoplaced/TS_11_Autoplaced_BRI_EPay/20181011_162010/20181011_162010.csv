@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_11_Autoplaced_BRI_EPay,Chrome 69.0.3497.100,,2018-10-11 16:24:55,2018-10-11 16:25:21,26.219s,PASSED
+,,,,,,
+Test Cases/02_Member/TC_02010001_Member_Login,Chrome 69.0.3497.100,,2018-10-11 16:24:55,2018-10-11 16:25:07,12.239s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-11 16:24:56,2018-10-11 16:24:59,3.625s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-11 16:24:59,2018-10-11 16:25:00,1.148s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 16:25:00,2018-10-11 16:25:02,1.393s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-11 16:25:02,2018-10-11 16:25:02,0.195s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-11 16:25:02,2018-10-11 16:25:02,0.129s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:02,2018-10-11 16:25:07,5.271s,PASSED
+,,,,,,
+Test Cases/03_Product/TC_03010001_Product_GoToPDPUrl_CloseGojekSuppoer_ClickBlanjaSekarang,Chrome 69.0.3497.100,,2018-10-11 16:25:07,2018-10-11 16:25:10,2.229s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 16:25:08,2018-10-11 16:25:09,1.825s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:09,2018-10-11 16:25:10,0.113s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:10,2018-10-11 16:25:10,0.114s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010001_GoToOrderConfirmUrl_SelectKurirStandard_ClickCheckout,Chrome 69.0.3497.100,,2018-10-11 16:25:10,2018-10-11 16:25:13,3.592s,PASSED
+selectOptionByValue,Chrome 69.0.3497.100,,2018-10-11 16:25:10,2018-10-11 16:25:11,1.117s,PASSED
+delay,Chrome 69.0.3497.100,,2018-10-11 16:25:11,2018-10-11 16:25:13,2.018s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:13,2018-10-11 16:25:13,0.082s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010002_ChooseMethodPayment/TC_04010002_11_ChooseMethodPayment_BRI_E_Pay,Chrome 69.0.3497.100,,2018-10-11 16:25:13,2018-10-11 16:25:16,2.211s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:13,2018-10-11 16:25:15,1.992s,PASSED
+"Statement - paymentMethod = ""BRI "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_04010002_Trade_PaymentMethod/LabelPaymentMethod/label_e-Pay BRI))",Chrome 69.0.3497.100,,2018-10-11 16:25:15,2018-10-11 16:25:16,0.056s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:25:16,2018-10-11 16:25:16,0.024s,PASSED
+,,,,,,
+Test Cases/04_Trade/TC_04010003_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 69.0.3497.100,,2018-10-11 16:25:16,2018-10-11 16:25:20,4.847s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-11 16:25:16,2018-10-11 16:25:18,2.664s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-10-11 16:25:18,2018-10-11 16:25:20,1.899s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SC_02010003_Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 69.0.3497.100,,2018-10-11 16:25:20,2018-10-11 16:25:20,0.060s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 69.0.3497.100,,2018-10-11 16:25:20,2018-10-11 16:25:20,0.008s,PASSED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_27_ChooseMethodPayment_Alfamart_Finpay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b775ceac-03f5-4107-b94d-dfbe694999d2</testCaseGuid>
+</TestCaseEntity>

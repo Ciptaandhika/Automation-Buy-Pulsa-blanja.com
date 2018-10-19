@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_22_ChooseMethodPayment_Kartu_Kredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dba42f53-345d-42fc-a3f3-7056e146a105</testCaseGuid>
+</TestCaseEntity>

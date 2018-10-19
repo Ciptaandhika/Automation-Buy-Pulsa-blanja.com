@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04010002_17_ChooseMethodPayment_BCA_KlikPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a98de168-725e-4017-ac2a-fe8ab6223bfd</testCaseGuid>
+</TestCaseEntity>
